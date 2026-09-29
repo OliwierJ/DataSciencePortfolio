@@ -1,0 +1,7 @@
+etc/
+Lib/
+Scripts/
+share/
+.lock
+CACHEDIR.TAG
+pyvenv.cfg
